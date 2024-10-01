@@ -4,5 +4,5 @@
 - Deployed to Ploygon(Emoy) testnet as well.
 - Strong application build using React and Next.js.
 
-Note: Only the API features and Smart contracts are available publically. Contact the autor for Project info.
+Note: Only the API features and Smart contracts are available publically. Contact the author for Project info.
 
