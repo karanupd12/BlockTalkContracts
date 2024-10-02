@@ -1,6 +1,6 @@
 # BLOCK TALK - Decentralized Chat Application
 
-BLOCK TALK is a next-generation decentralized chat platform built using blockchain technology to ensure full privacy, security, and control over conversations. The application is built using **React**, **Next.js**, **Hardhat**, and **Solidity smart contracts** and is integrated with MetaMask for secure authentication. BLOCK TALK guarantees tamper-proof messaging, allowing users to experience a seamless, decentralized communication experience.
+BLOCK TALK is a next-generation decentralized chat platform built using blockchain technology to ensure full privacy, security, and control over conversations. The application is built using **React**, **Next.js**, tested and deployed using **Hardhat**, governed by strong **Solidity smart contracts** and is integrated with MetaMask for secure authentication. BLOCK TALK guarantees tamper-proof messaging, allowing users to experience a seamless, decentralized communication experience.
 
 ## Deployed On
 - **Network**: Polygon Emoy Testnet(Primary), LocalHost, base_sepolia
