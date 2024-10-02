@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "BlockTalk Logo.png" width="170">
+  <img src = "BlockTalk Logo.png" width="200" height="200"/>
 </p>
 
 <h1 align="center">
