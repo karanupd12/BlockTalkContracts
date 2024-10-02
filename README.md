@@ -1,8 +1,66 @@
-# BlockTalkContracts
-- BlockTalk is a Blockchain secured Dapp governed by Ethereum Smart contracts.
-- Used hardhat local developement environment for testing, deploying and managing my contracts.
-- Deployed to Ploygon(Emoy) testnet as well.
-- Strong application build using React and Next.js.
+# BLOCK TALK - Decentralized Chat Application
 
-Note: Only the API features and Smart contracts are available publically. Contact the author for Project info.
+BLOCK TALK is a next-generation decentralized chat platform built using blockchain technology to ensure full privacy, security, and control over conversations. The application is built using **React**, **Next.js**, **Hardhat**, and **Solidity smart contracts** and is integrated with MetaMask for secure authentication. BLOCK TALK guarantees tamper-proof messaging, allowing users to experience a seamless, decentralized communication experience.
+
+## Deployed On
+- **Network**: Polygon Emoy Testnet(Primary), LocalHost, base_sepolia
+- **Block Explorer**: [oklink.com](https://www.oklink.com/amoy)
+- **Live Demo**: [BlockTalk.vercel.app/](https://block-talk-seven.vercel.app/)
+
+---
+
+## Key Features
+
+### 🔐 **Blockchain-Powered Messaging**
+Messages are securely stored on the blockchain using smart contracts, ensuring data immutability and decentralized storage.
+
+### 🔑 **MetaMask Authentication**
+Integrated with MetaMask, users can authenticate and connect their wallets seamlessly through the Ethereum ecosystem, offering a secure decentralized login experience.
+
+### 🔒 **End-to-End Encryption**
+Top-tier cryptography guarantees that your conversations remain private, with no third-party access.
+
+### 🤝 **Consent-Driven Friend Approval**
+Interactions are secured by blockchain transactions, requiring mutual consent before starting any conversation.
+
+### 📜 **Smart Contract Infrastructure**
+Decentralized smart contracts back every message, ensuring data integrity and the delivery of messages through cryptographic verification.
+
+### 🌐 **Seamless Network Switching**
+The application supports automatic network switching, ensuring that users stay connected regardless of the network they are on.
+
+### 🧾 **Immutable On-Chain Records**
+All activities are stored immutably on the blockchain, allowing for full transparency and auditability of user interactions.
+
+---
+
+## Why BLOCK TALK?
+
+In an age where privacy is often compromised, BLOCK TALK ensures that your messages remain secure and accessible only to you and your intended recipients. By leveraging blockchain technology, the platform guarantees a tamper-proof solution for secure digital communication.
+
+---
+
+## Tech Stack
+
+- **Frontend**: React.js, Next.js
+- **Blockchain**: Ethereum-compatible network (Polygon Emoy Testnet)
+- **Smart Contracts**: Solidity
+- **Build & Development**: Hardhat
+- **Authentication**: MetaMask integration for decentralized login
+- **Encryption**: End-to-end encryption with advanced cryptographic standards
+
+---
+
+## Getting Started
+
+### Prerequisites (The website will itself direct you to metmask and testnet)
+
+- **MetaMask**: Install MetaMask on your browser. [Download MetaMask](https://metamask.io/download.html).
+- **Polygon Emoy Testnet**: Add Polygon Emoy Testnet to your MetaMask wallet.
+
+### NOTE :
+Make sure to keep refreshing the pages and keep your metamask activity tab clean.
+
+### Developer
+- Karan Upadhyay
 
