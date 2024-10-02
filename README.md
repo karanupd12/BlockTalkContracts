@@ -8,6 +8,8 @@ BLOCK TALK is a next-generation decentralized chat platform built using blockcha
 - **Live Demo**: [BlockTalk.vercel.app/](https://block-talk-seven.vercel.app/)
 
 ---
+## Note : 
+- Only the core smart contracts are made public, complete project code can't be made public due to privacy concern.
 
 ## Key Features
 
